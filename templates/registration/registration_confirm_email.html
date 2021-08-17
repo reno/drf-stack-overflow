@@ -1,9 +1,0 @@
-{% autoescape off %}
-Hi {{ user.first_name }},
-
-Please click on the link below to confirm your registration:
-
-http://{{ domain }}{% url 'email_confirm' uidb64=uidb64 token=token %}
-
-If clicking the link above doesn't work, please copy and paste the URL in a new browser window instead.
-{% endautoescape %}
