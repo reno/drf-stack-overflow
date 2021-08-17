@@ -1,0 +1,17 @@
+{
+  "user_data": {
+    "username": "test",
+    "email": "test@mail.com",
+    "password": "t3stp4ssw0rd",
+    "first_name": "Test",
+    "last_name": "User"
+  },
+  "another_user_data": {
+    "username": "test2",
+    "email": "test2@mail.com",
+    "password": "t3stp4ssw0rd",
+    "first_name": "Test2",
+    "last_name": "User"
+  }
+}
+

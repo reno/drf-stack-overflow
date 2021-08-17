@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Pycharm files
+.idea
+
+# OSX system files
+*.DS_Store
+
+# React/next files
+node_modules
+.next
