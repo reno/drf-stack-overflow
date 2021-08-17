@@ -133,3 +133,7 @@ dmypy.json
 
 # OSX system files
 *.DS_Store
+
+# React/next files
+node_modules
+.next
