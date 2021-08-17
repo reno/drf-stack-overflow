@@ -1,0 +1,32 @@
+{
+  "user_data": {
+    "username": "test",
+    "email": "test@mail.com",
+    "password": "t3stp4ssw0rd",
+    "first_name": "Test",
+    "last_name": "User"
+  },
+  "other_user_data": {
+    "username": "test2",
+    "email": "test2@mail.com",
+    "password": "t3stp4ssw0rd",
+    "first_name": "Test2",
+    "last_name": "User"
+  },
+  "question_data": {
+    "title": "Fist question",
+    "content": "This is a sample question."
+  },
+  "other_question_data": {
+    "title": "Second question",
+    "content": "This is another sample question."
+  },
+  "answer_data": {
+    "content": "This is a sample answer.",
+    "accepted": true
+  },
+  "other_answer_data": {
+    "content": "This is a another sample answer."
+  }
+}
+
